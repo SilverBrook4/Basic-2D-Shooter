@@ -1,0 +1,6 @@
+build/
+cmake-build-debug/
+Projects/
+.idea/
+.DS_Store
+.vscode/
