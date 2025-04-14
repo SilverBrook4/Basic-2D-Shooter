@@ -33,6 +33,7 @@ projectiles used in future iterations of this game.
 
 ## Installations / Technologies Used:
 * C++
+* CMake
 * OpenGL
 * GLAD
 * GLFW
@@ -58,10 +59,3 @@ projectiles used in future iterations of this game.
 The base of the engine class, shape class, rect class, circle class, color struct, debug.h, and everything in shader was
 created by Lisa Dion acts as the base that I built everything else on. They act as the basic setup to make a window and run the
 processes to run the code. I made modifications to the circle class and all of the gameplay I wrote in the engine class.
-
-      * custom shape based off of the rectangle class but with a shifted center to the middle
-      of the left edge for simpler rotation mechanics for aiming.
-
-
-
-
